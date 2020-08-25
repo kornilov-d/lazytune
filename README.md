@@ -2,7 +2,7 @@
 
 From music fans to music fans. Find the playlist by genre, mood, fav artist/band. 
 
-All playlists are currently available here 🔗[Telegram channel](https://t.me/fuckfuckfuckfuckf)
+All playlists are currently available here 🔗 [Telegram channel](https://t.me/fuckfuckfuckfuckf)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
